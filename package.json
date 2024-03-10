@@ -1,0 +1,26 @@
+{
+"name": "woxiaozhugewumou-niqzduanzhi88",
+"version": "1.0.0",
+"description": "Reading the project documentation can help you better understand its features and usage.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/tautuiakikeis/Documentation.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "tautuiakikeis",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
